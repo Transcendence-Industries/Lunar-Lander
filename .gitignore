@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+mlflow/
+models/
+
+.DS_Store
